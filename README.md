@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rafael Leitao
 
-🔭 I’m currently working as a Software Engineer Intern at NeuroLeap, where I develop and optimize APIs, enhance cross-platform systems, and contribute to high-performance database solutions. With a degree in Computer Science from San Francisco State University, I have a solid foundation in programming languages like Python, C++, and Golang, as well as experience in software development, data analysis, and quality assurance. My passion lies in solving complex technical challenges, whether it's building scalable applications, working with distributed systems, or diving into AI and machine learning. I'm always eager to learn, grow, and collaborate with others to drive innovation and create impactful digital experiences.
+🔭 I’m currently working as a Software Engineer at NeuroLeap, where I develop and optimize APIs, enhance cross-platform systems, and contribute to high-performance database solutions. With a degree in Computer Science from San Francisco State University, I have a solid foundation in programming languages like Python, C++, and Golang, as well as experience in software development, data analysis, and quality assurance. My passion lies in solving complex technical challenges, whether it's building scalable applications, working with distributed systems, or diving into AI and machine learning. I'm always eager to learn, grow, and collaborate with others to drive innovation and create impactful digital experiences.
 
 ### 🧰 Languages and Tools
 
